@@ -2,3 +2,4 @@ urma2p5_random_flips filter=lfs diff=lfs merge=lfs -text
 urma2p5_errfield.* filter=lfs diff=lfs merge=lfs -text
 rtma_random_flips filter=lfs diff=lfs merge=lfs -text
 urma2p5_errfield_with_mitm.dat_clim filter=lfs diff=lfs merge=lfs -text
+urma2p5_errfield_with_mxtm.dat_clim filter=lfs diff=lfs merge=lfs -text
